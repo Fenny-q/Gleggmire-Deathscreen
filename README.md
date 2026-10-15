@@ -1,9 +1,28 @@
-# Glegg Deathscreen
+# GLEGG DEATHSCREEN
 
-## Setup
+**CHECKST DU MEINE SCHEISSE?**
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+Der normale Minecraft-Deathscreen ist absolut **FRIES**. Deshalb gibt es jetzt einen neuen **Approach** zum Sterben!
 
-## License
+## WAS MACHT DIE MOD?
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+- **30 zufällige Glegg-Todessprüche** statt langweiligem Vanilla-Friestent
+- **Glegg-Sonne** statt der normalen Minecraft-Sonne
+- 100 % **GOEY**, **Copen**, **Einigersarcel** und **PenisT**
+
+Du stirbst in Lava? **ELABORIER MAL DEINEN APPROACH.**
+
+Creeper sprengt dich weg? **ABSOLUTER EINIGERSARCEL.**
+
+## DOWNLOAD & INSTALLATION
+
+**Die fertige Mod zum Benutzen findest du unter [Releases](../../releases)!**
+
+1. Die neueste `.jar` unter **Releases** herunterladen.
+2. Minecraft **1.21.11** mit **Fabric Loader** und **Fabric API** installieren.
+3. Die `.jar` in den `mods`-Ordner ziehen.
+4. Minecraft starten und den nächsten Tod elaborieren.
+
+## WARNUNG
+
+Diese Mod kann zu erhöhtem **Copen**, spontanem **GOEY** und massivem **Aufbauschen** deiner Minecraft-Skills führen.
